@@ -1,7 +1,5 @@
 # CS 230 Portfolio Reflection
 
-## The Gaming Room Software Design Document
-
 
 ### Briefly summarize The Gaming Room client and their software requirements.
 
